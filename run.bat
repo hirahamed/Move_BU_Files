@@ -1,2 +1,0 @@
-python findingSeparatingSazFiles_v1.py
-Pause
