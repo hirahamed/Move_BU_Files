@@ -1,4 +1,4 @@
-# Separat BU SazFiles to another folder and Find the missing SazFiles
+# Separate BU SazFiles to another folder and Find the missing SazFiles
 
 
 **Input will be csv file having Product Ids for particular person (exported from Assembla)**
