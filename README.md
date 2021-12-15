@@ -1,4 +1,4 @@
-# Move_BU_Files
+# Separate_BU_SazFiles
 
 
 **Input will be csv file having Product Ids for particular person (exported from Assembla)**
